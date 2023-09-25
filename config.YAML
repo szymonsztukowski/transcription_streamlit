@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      login: 3apP_AdmiN514_!
+      name: Admin
+      password: $2b$12$S8GV46fCFS0hoEG27U7Jb.WOnDU3agCyam2U7CB42ePeTeteA2/eW
+    user:
+      login: 3apP_UseR017_!
+      name: User
+      password: $2b$12$pQlt3c.pGPCe3jgXuCN5SeBOD6By7m1ys/nTGTU9SrbaB91iPiMLO
+cookie:
+  expiry_days: 30
+  key: 6FDAF537F91BF
+  name: app_login_cookies
