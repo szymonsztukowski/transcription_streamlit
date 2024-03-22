@@ -1,4 +1,5 @@
 streamlit==1.25
+streamlit==1.25
 streamlit_authenticator
 pytube
 requests
