@@ -9,9 +9,9 @@ credentials:
       name: User
       password: $2b$12$pQlt3c.pGPCe3jgXuCN5SeBOD6By7m1ys/nTGTU9SrbaB91iPiMLO
     user2:
-      login: pmusiel
-      name: PMusiel
-      password: $2b$12$wWg9L7iwu1EYKlJHrE.DrO1J9IwamG0mDJa2EkHN01i4bYSbzKwym
+      login: 3apP_UseR018_!
+      name: User2
+      password: $2b$12$LpR.f90l5qirA6Y90jS28OwH2v/yU4vCbWbxFrTspdZ3Fpv6wo.bu
 cookie:
   expiry_days: 30
   key: 6FDAF537F91BF
