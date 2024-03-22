@@ -1,6 +1,5 @@
 streamlit==1.25
-streamlit==1.25
-streamlit_authenticator
+streamlit_authenticator==0.2.3
 pytube
 requests
 zipp
