@@ -11,7 +11,7 @@ credentials:
     user2:
       login: pmusiel
       name: PMusiel
-      password: $2b$12$U6dkNoIGUx26zCA/b6O4CeeQVQjwV9vOniKWq6DocpTmTbnvGSVOG
+      password: $2b$12$Z5TgU2hRoJ5u7zvDLad17OHJEdnl8HwaqKtphDhagFLzv8iy/qyRq
 cookie:
   expiry_days: 30
   key: 6FDAF537F91BF
